@@ -10,9 +10,9 @@ Provides insightful classification results based on the input data.
 
 ## Requirements
 Make sure you have the following dependencies installed:
-Python 3.x
-scikit-learn
-Tkinter
+1. Python 3.x
+2. scikit-learn
+3. Tkinter
 
 ## Installation
 
