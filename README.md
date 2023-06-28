@@ -14,6 +14,12 @@ Python 3.x
 scikit-learn
 Tkinter
 
+## Installation
+
+1. Clone this repository to your local machine or download the source code as a ZIP file and extract it.
+2. Open a terminal or command prompt and navigate to the project directory.
+3. Install the required dependencies by running the following command: pip install -r requirements.txt
+
 ## Usage:
 Run main.py
 
